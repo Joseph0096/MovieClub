@@ -1,0 +1,122 @@
+[
+    {
+        "cover_image": "movie_6.jpeg",
+        "director": "David Fincher",
+        "genre": "drama",
+        "imdb_link": "https://www.imdb.com/title/tt0137523",
+        "main_actors": "Brad Pitt, Edward Norton, Meat Loaf",
+        "movie_title": "Fight Club",
+        "producer": "Art Linson, Ceán Chaffin, Ross Grayson Bell",
+        "synopsis": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+    },
+    {
+        "cover_image": "movie_1.jpeg",
+        "director": "Emma Tammi",
+        "genre": "horror, mystery, thriller",
+        "imdb_link": "https://www.imdb.com/title/tt4589218/",
+        "main_actors": "Josh Hutcherson, Piper Rubio, Elizabeth Lail",
+        "movie_title": "Five Nights at Freddy's",
+        "producer": "Scott Cawthon, Jason Blum",
+        "synopsis": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's."
+    },
+    {
+        "cover_image": "movie_2.jpeg",
+        "director": "Greta Gerwig",
+        "genre": "adventure, comedy, fantasy",
+        "imdb_link": "https://www.imdb.com/title/tt1517268/",
+        "main_actors": "Margot Robbie, Ryan Gosling, Issa Rae",
+        "movie_title": "Barbie",
+        "producer": "David Heyman, Margot Robbie, Tom Ackerley, Robbie Brenner",
+        "synopsis": "Barbie suffers a crisis that leads her to question her world and her existence."
+    },
+    {
+        "cover_image": "movie_11.jpeg",
+        "director": "Quentin Tarantino",
+        "genre": "crime, drama",
+        "imdb_link": "https://www.imdb.com/title/tt0110912/",
+        "main_actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+        "movie_title": "Pulp Fiction",
+        "producer": "Lawrence Bender",
+        "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+        "cover_image": "movie_10",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "genre": "action, sci-fi",
+        "imdb_link": "https://www.imdb.com/title/tt0133093",
+        "main_actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "movie_title": "The Matrix",
+        "producer": "Joel Silver",
+        "synopsis": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+    },
+    {
+        "cover_image": "movie_9.jpeg",
+        "director": "Robert Zemeckis",
+        "genre": "drama, romance",
+        "imdb_link": "https://www.imdb.com/title/tt0109830",
+        "main_actors": "Tom Hanks, Robin Wright, Gary Sinise",
+        "movie_title": "Forrest Gump",
+        "producer": "Wendy Finerman, Steve Tisch, Steve Starkey",
+        "synopsis": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+    },
+    {
+        "cover_image": "movie_12.jpeg",
+        "director": "Makoto Shinkai",
+        "genre": "animation, drama, fantasy",
+        "imdb_link": "https://www.imdb.com/title/tt5311514",
+        "main_actors": "Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita",
+        "movie_title": "Your Name.",
+        "producer": "Kōichirō Itō, Katsuhiro Takei",
+        "synopsis": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person."
+    },
+    {
+        "cover_image": "movie_5.jpeg",
+        "director": "Jeff Tremaine",
+        "genre": "documentary, action, comedy",
+        "imdb_link": "https://www.imdb.com/title/tt0322802/",
+        "main_actors": "Johnny Knoxville, Bam Margera, Chris Pontius",
+        "movie_title": "Jackass: The Movie",
+        "producer": "Jeff Tremaine, Spike Jonze, Johnny Knoxville",
+        "synopsis": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time."
+    },
+    {
+        "cover_image": "movie_8.jpeg",
+        "director": "Christopher Nolan",
+        "genre": "action, crime, drama",
+        "imdb_link": "https://www.imdb.com/title/tt0468569",
+        "main_actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "movie_title": "The Dark Knight",
+        "producer": "Emma Thomas, Charles Roven, Christopher Nolan",
+        "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+        "cover_image": "movie_7.jpeg",
+        "director": "Kevin Greutert",
+        "genre": "horror, mystery, thriller",
+        "imdb_link": "https://www.imdb.com/title/tt21807222/",
+        "main_actors": "Tobin Bell, Shawnee Smith, Synnøve Macody Lund",
+        "movie_title": "Saw X",
+        "producer": "Mark Burg, Oren Koules",
+        "synopsis": "A sick and desperate John travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer only to discover the entire operation is a scam to defraud the most vulnerable"
+    },
+    {
+        "cover_image": "movie_3.jpeg",
+        "director": "Christopher Nolan",
+        "genre": "biography, drama, history",
+        "imdb_link": "https://www.imdb.com/title/tt15398776/",
+        "main_actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+        "movie_title": "Oppenheimer",
+        "producer": "Emma Thomas, Charles Roven, Christopher Nolan",
+        "synopsis": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb."
+    },
+    {
+        "cover_image": "movie_4.jpeg",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "genre": "animation, action, adventure",
+        "imdb_link": "https://www.imdb.com/title/tt9362722/",
+        "main_actors": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",
+        "movie_title": "Spider-Man: Across the Spider-Verse",
+        "producer": "Phil Lord, Christopher Miller, Amy Pascal, Avi Arad, Christina Steinberg",
+        "synopsis": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero."
+    }
+]

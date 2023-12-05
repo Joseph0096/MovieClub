@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "movieclub-18fa9",
+    "test": "movieclub-18fa9"
+  },
+  "targets": {},
+  "etags": {}
+}
