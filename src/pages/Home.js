@@ -14,7 +14,6 @@ export function Home(props) {
 
   const ItemCards = items.map((item, itemKey) => {
     if (!item || !item.movie_title) {
-      // Handle the case where item or movie_title is undefined or null
       return null;
     }
 

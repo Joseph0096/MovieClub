@@ -47,7 +47,6 @@ export function Detail(props) {
         </Row>
         <Row>
           <Col>
-            {/* Assuming ReviewForm is generic and can be used for both books and movies */}
             <ReviewForm title={movieData.movie_title} />
           </Col>
         </Row>

@@ -14,10 +14,10 @@ export function ReviewForm(props) {
     event.preventDefault()
   }
 
-  if( auth ) {
+  if( auth && typeof auth === "object" ) {
     return (
       <Form onSubmit={submitHandler}>
-        <h3>Review {props.booktitle}</h3>
+        <h3>Review {props.movie_title}</h3>
         <Form.Group>
           <Form.Label>Star</Form.Label>
           <Form.Select name="star" value={star} onChange={(evt) => setStar(evt.target.value) }>
@@ -31,11 +31,11 @@ export function ReviewForm(props) {
         </Form.Group>
         <Form.Group>
           <Form.Label>Title</Form.Label>
-          <Form.Control type="text" placeholder="I love this book" />
+          <Form.Control type="text" placeholder="I love this movie" />
         </Form.Group>
         <Form.Group>
           <Form.Label>Review</Form.Label>
-          <Form.Control as="textarea" rows={4} cols={30} placeholder="I could not put this down!" />
+          <Form.Control as="textarea" rows={4} cols={30} placeholder="I could not stop watching!" />
         </Form.Group>
         <Button type="submit" variant="primary">Submit</Button>
       </Form>
